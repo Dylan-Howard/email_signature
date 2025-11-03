@@ -1,0 +1,25 @@
+{
+  "name": "email_signature",
+  "version": "1.0.0",
+  "description": "Build process for email signature icons",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylan-Howard/email_signature.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dylan-Howard/email_signature/issues"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.0",
+    "node-fetch": "^2.7.0"
+  },
+  "homepage": "https://github.com/Dylan-Howard/email_signature#readme"
+}
